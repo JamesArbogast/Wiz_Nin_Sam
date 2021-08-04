@@ -1,0 +1,16 @@
+C:\Users\james\OneDrive\Desktop\coding_dojo\C#\Wiz_Nin_Sam\bin\Debug\net5.0\Wiz_Nin_Sam.exe
+C:\Users\james\OneDrive\Desktop\coding_dojo\C#\Wiz_Nin_Sam\bin\Debug\net5.0\Wiz_Nin_Sam.deps.json
+C:\Users\james\OneDrive\Desktop\coding_dojo\C#\Wiz_Nin_Sam\bin\Debug\net5.0\Wiz_Nin_Sam.runtimeconfig.json
+C:\Users\james\OneDrive\Desktop\coding_dojo\C#\Wiz_Nin_Sam\bin\Debug\net5.0\Wiz_Nin_Sam.runtimeconfig.dev.json
+C:\Users\james\OneDrive\Desktop\coding_dojo\C#\Wiz_Nin_Sam\bin\Debug\net5.0\Wiz_Nin_Sam.dll
+C:\Users\james\OneDrive\Desktop\coding_dojo\C#\Wiz_Nin_Sam\bin\Debug\net5.0\ref\Wiz_Nin_Sam.dll
+C:\Users\james\OneDrive\Desktop\coding_dojo\C#\Wiz_Nin_Sam\bin\Debug\net5.0\Wiz_Nin_Sam.pdb
+C:\Users\james\OneDrive\Desktop\coding_dojo\C#\Wiz_Nin_Sam\obj\Debug\net5.0\Wiz_Nin_Sam.csprojAssemblyReference.cache
+C:\Users\james\OneDrive\Desktop\coding_dojo\C#\Wiz_Nin_Sam\obj\Debug\net5.0\Wiz_Nin_Sam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\OneDrive\Desktop\coding_dojo\C#\Wiz_Nin_Sam\obj\Debug\net5.0\Wiz_Nin_Sam.AssemblyInfoInputs.cache
+C:\Users\james\OneDrive\Desktop\coding_dojo\C#\Wiz_Nin_Sam\obj\Debug\net5.0\Wiz_Nin_Sam.AssemblyInfo.cs
+C:\Users\james\OneDrive\Desktop\coding_dojo\C#\Wiz_Nin_Sam\obj\Debug\net5.0\Wiz_Nin_Sam.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\Desktop\coding_dojo\C#\Wiz_Nin_Sam\obj\Debug\net5.0\Wiz_Nin_Sam.dll
+C:\Users\james\OneDrive\Desktop\coding_dojo\C#\Wiz_Nin_Sam\obj\Debug\net5.0\ref\Wiz_Nin_Sam.dll
+C:\Users\james\OneDrive\Desktop\coding_dojo\C#\Wiz_Nin_Sam\obj\Debug\net5.0\Wiz_Nin_Sam.pdb
+C:\Users\james\OneDrive\Desktop\coding_dojo\C#\Wiz_Nin_Sam\obj\Debug\net5.0\Wiz_Nin_Sam.genruntimeconfig.cache
