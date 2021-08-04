@@ -72,7 +72,7 @@ namespace Wiz_Nin_Sam
             {
                 CalorieIntake += food.Calories;
                 FoodHistory.Add(food);
-                Console.WriteLine($"{food.Name} is spicey: {food.IsSweet}, is sweet {food.IsSweet}, calory intake is {CalorieIntake}");
+                Console.WriteLine($"{food.Name} is spicey: {food.IsSpicy}, is sweet {food.IsSweet}, calorie intake is {CalorieIntake}");
             }
             else{
                 Console.WriteLine("Ninja is full!!!");

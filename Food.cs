@@ -6,8 +6,8 @@ namespace Wiz_Nin_Sam
     {
         public string Name;
         public int Calories;
-        public bool IsSpicy; 
-        public bool IsSweet; 
+        public bool IsSpicy = false; 
+        public bool IsSweet = false; 
 
         public Food(string name, int calories, bool isSpicy, bool isSweet)
         {

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\james\\OneDrive\\Desktop\\coding_dojo\\C#\\Wiz_Nin_Sam\\Wiz_Nin_Sam.csproj",
+      "projectUniqueName": "C:\\Users\\james\\OneDrive\\Desktop\\coding_dojo\\CSharp\\Wiz_Nin_Sam\\Wiz_Nin_Sam.csproj",
       "projectName": "Wiz_Nin_Sam",
-      "projectPath": "C:\\Users\\james\\OneDrive\\Desktop\\coding_dojo\\C#\\Wiz_Nin_Sam\\Wiz_Nin_Sam.csproj",
+      "projectPath": "C:\\Users\\james\\OneDrive\\Desktop\\coding_dojo\\CSharp\\Wiz_Nin_Sam\\Wiz_Nin_Sam.csproj",
       "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\james\\OneDrive\\Desktop\\coding_dojo\\C#\\Wiz_Nin_Sam\\obj\\",
+      "outputPath": "C:\\Users\\james\\OneDrive\\Desktop\\coding_dojo\\CSharp\\Wiz_Nin_Sam\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\james\\AppData\\Roaming\\NuGet\\NuGet.Config"
