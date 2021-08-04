@@ -8,26 +8,26 @@ namespace Wiz_Nin_Sam
         public Samurai(string name) : base(name)
         {
             Name = name;
-            health = 200;
+            Health = 200;
         }
         public new int Attack(Human target)
         {
             int dmg = base.Attack(target);
-            if(target.health < 50)
+            if(target.Health < 50)
             {
-                target.health = 0;
+                target.Health = 0;
             }
-            target.health -= dmg;
+            target.Health -= dmg;
 
-            Console.WriteLine(target.Name + "'s Health: " + target.Health + ", " + Name + "'s Health: " + health);
+            Console.WriteLine(target.Name + "'s Health: " + target.Health + ", " + Name + "'s Health: " + Health);
             return target.Health;
         }
 
         public int Meditate(Human target)
         {
             int fullHealth = 200;
-            health = fullHealth;
-            Console.WriteLine(target.Name + "'s Health: " + target.Health + ", " + Name + "'s Health: " + health);
+            Health = fullHealth;
+            Console.WriteLine(target.Name + "'s Health: " + target.Health + ", " + Name + "'s Health: " + Health);
             return target.Health;
         }
     }
