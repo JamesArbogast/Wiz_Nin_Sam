@@ -12,7 +12,7 @@ namespace Wiz_Nin_Sam
         }
         public new int Attack(Human target)
         {
-            int dmg = Attack(target);
+            int dmg = base.Attack(target);
             if(target.health < 50)
             {
                 target.health = 0;

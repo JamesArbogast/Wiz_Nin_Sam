@@ -7,9 +7,15 @@ namespace Wiz_Nin_Sam
     {
         static void Main(string[] args)
         {
-            // Human james = new Human("James", 2, 4, 5);
-            // Human evilJames = new Human("Evil James", 4, 2, 3);
-            // james.Attack(evilJames);
+            Ninja james = new Ninja("James");
+            Wizard evilJames = new Wizard("Evil James");
+            Samurai lessEvilJames = new Samurai("Less Evil James");
+            Console.WriteLine(james.Name + "'s Health: " + james.health + " | " + evilJames.Name + "'s Health: " + evilJames.health + " | " + lessEvilJames.Name + "'s Health: " + lessEvilJames.health);
+            james.Steal(evilJames);
+            evilJames.Heal(evilJames);
+            lessEvilJames.Attack(james);
+            james.Attack(lessEvilJames);
+            lessEvilJames.Meditate(lessEvilJames);
         }
     }
 
